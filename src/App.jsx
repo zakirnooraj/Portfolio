@@ -19,7 +19,7 @@ const RESUME = {
     "ServiceNow Developer skilled in JavaScript, Glide API, Business Rules, Flow Designer, and REST/SOAP integrations. Experienced in ITSM modules and cross-team collaboration for scalable automation.",
   experience: [
     {
-      company: "IN TECHNET LIMITED",
+      company: "IT4YOURBUSINESS",
       role: "ServiceNow Developer",
       from: "05/2024",
       location: "Hyderabad, Telangana",
